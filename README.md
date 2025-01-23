@@ -1,4 +1,4 @@
-## Studying In Dongguk.univ✨
+## Studying Computer Vision for Autonomous Driving
 
 Recently, I study.. 
 
