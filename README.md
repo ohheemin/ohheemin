@@ -1,4 +1,4 @@
-## MAJORING in MECHANICAL, ROBOTICS AND ENERGY ENGINEERING IN Dongguk.Univ
+## Welcome to Heemin's Github
 
 <!--
 **ohheemin/ohheemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
