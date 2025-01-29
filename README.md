@@ -1,5 +1,5 @@
 ## ⚒ Info
-Hi, I'm studying Mechanics and Robotics at Dongguk.univ. Specifically interested in Image processing and Deep learning, and Lidar poinclud processing algorithm.
+Hi, I'm studying Mechanics and Robotics at Dongguk.univ. Specifically interested in Image processing and Deep learning, and Lidar poincloud processing algorithm.
 
 And recently I'm Studying Computer Vision for Autonomous Driving.
 
