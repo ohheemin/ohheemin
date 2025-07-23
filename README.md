@@ -20,7 +20,7 @@ I'm particularly interested in:
 | <img src="https://img.shields.io/badge/MATLAB-%23e16737.svg?&style=for-the-badge&logo=mathworks&logoColor=white"> | <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"> | <img src="https://img.shields.io/badge/ROS2-%230071C5.svg?&style=for-the-badge&logo=ros&logoColor=white"> | <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> |
 | <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"> | <img src="https://img.shields.io/badge/Gazebo-%230098D6.svg?&style=for-the-badge&logo=gazebo&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"> |
 | <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"> | <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"> | <img src="https://img.shields.io/badge/rviz-%23000000.svg?&style=for-the-badge&logo=rviz&logoColor=white"> | <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"> |
-|   | <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&style=for-the-badge&logo=matplotlib&logoColor=black"> |   | <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"> |
+|   | <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&style=for-the-badge&logo=matplotlib&logoColor=black"> |   
 
 
 
