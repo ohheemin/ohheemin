@@ -1,13 +1,13 @@
 ## ⚒ Welcome to Heemin's GitHub
 
-Hi! 👋 I'm a Robotics & Mechanics student at **Dongguk University**, passionate about building intelligent and autonomous systems.
+I'm a Robotics & Mechanics student at **Dongguk University**, passionate about building intelligent and autonomous systems.
 
 I'm particularly interested in:
 
-- 🔍 **Image Processing** & **Deep Learning**
-- 🧠 **Computer Vision for Autonomous Driving**
-- 🛠 **Lidar Point Cloud Processing**
-- 🤖 **5–6 DOF Robot Arm Manipulation**
+- **Image Processing** & **Deep Learning**
+- **Computer Vision for Autonomous Driving**
+- **Lidar Point Cloud Processing**
+- **5–6 DOF Robot Arm Manipulation**
 
 ---
 
