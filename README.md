@@ -14,6 +14,11 @@ And recently I'm Studying Computer Vision for Autonomous Driving and 5 to 6 DOF 
 <!--
 **ohheemin/ohheemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## ⚒ I did
+
+https://www.irobotnews.com/news/articleView.html?idxno=41184
+https://www.globalzeus.com/kr/sub/ir/mediaView.asp?bid=2&b_idx=269&page=1
+
 
 
 
