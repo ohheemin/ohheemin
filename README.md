@@ -31,7 +31,9 @@ I'm particularly interested in:
 - [제 4회 국제 ev 자율주행 경진대회](https://www.irobotnews.com/news/articleView.html?idxno=41184)
 - [R-VIZ challenge, ZEUS](https://www.globalzeus.com/kr/sub/ir/mediaView.asp?bid=2&b_idx=269&page=1)
 - [제 7회 국민대 자율주행 경진대회](https://www.youtube.com/watch?v=UsoK1yYS4So)
-
+- [2024 대학생 창작 모빌리티 경진대회](https://www.youtube.com/watch?v=dPtdy3fO3pk&t=16236s)
+- [2024 공학페스티벌, 창의적 종합설계 경진대회](https://www.asiatoday.co.kr/kn/view.php?key=20241128010014388)
+  
 ---
 
 <!--
