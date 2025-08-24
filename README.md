@@ -1,4 +1,4 @@
-## ⚒ Welcome to Heemin's GitHub
+## 🦾 Welcome to Heemin's GitHub
 
 I'm a Robotics & Mechanics student at **Dongguk University**
 
@@ -11,7 +11,7 @@ I'm particularly interested in:
 
 ---
 
-## ⚒ Tech Stack
+## 🦾 Tech Stack
 
 | Language | Deep Learning | Vision, Robotics | Tools |
 |----------|---------------|-----------------|-------|
