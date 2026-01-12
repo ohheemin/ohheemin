@@ -32,6 +32,7 @@ I'm particularly interested in:
 - [제 7회 국민대 자율주행 경진대회](https://www.youtube.com/watch?v=UsoK1yYS4So)
 - [2024 대학생 창작 모빌리티 경진대회](https://www.youtube.com/watch?v=dPtdy3fO3pk&t=16236s)
 - [2024 공학페스티벌, 창의적 종합설계 경진대회](https://www.asiatoday.co.kr/kn/view.php?key=20241128010014388)
+- [2025 HL FMA 자율주행 경진대회](https://www.swuniv.kr/64/?bmode=view&idx=168006883)
   
 ---
 
