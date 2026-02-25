@@ -18,17 +18,11 @@ Language & AI: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&l
 
 Simulation: <img src="https://img.shields.io/badge/Gazebo-0098D6?style=flat&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white"> 
 
-
-Vision & Robotics
-
 Vision: <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 
 Robotics: <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 
-
-Tools
-
-<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 
 ---
 
