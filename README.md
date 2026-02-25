@@ -1,8 +1,8 @@
 ## 🦾 Welcome
 
-I'm a Robotics & Mechanics student at **Dongguk University**
+Majored in Robotics & Mechanics student at **Dongguk University**
 
-I'm particularly interested in:
+Particularly interested in:
 
 - **Physical AI based on DT**
 - **Computer Vision for Autonomous Driving**
