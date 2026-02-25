@@ -7,7 +7,7 @@ I'm particularly interested in:
 - **Digital Twin and Physical AI**
 - **Computer Vision for Autonomous Driving**
 - **Lidar Point Cloud Processing**
-- **5–6 DOF Robot Arm Manipulation**
+- **Industrial Robot Arm Manipulation**
 
 ---
 
