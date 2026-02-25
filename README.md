@@ -4,7 +4,7 @@ I'm a Robotics & Mechanics student at **Dongguk University**
 
 I'm particularly interested in:
 
-- **Digital Twin and Physical AI**
+- **Physical AI based on DT**
 - **Computer Vision for Autonomous Driving**
 - **Lidar Point Cloud Processing**
 - **Industrial Robot Arm Manipulation**
