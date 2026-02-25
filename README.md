@@ -11,17 +11,22 @@ I'm particularly interested in:
 
 ---
 
-## 🦾 Tech Stack
+🛠️ Tech Stack
+Core Skills
 
-| Language | Deep Learning | Vision, Robotics | Tools |
-|----------|---------------|-----------------|-------|
-| <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"> | <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"> | <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"> |
-| <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/ROS-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white"> | <img src="https://img.shields.io/badge/VScode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"> |
-| <img src="https://img.shields.io/badge/MATLAB-%23e16737.svg?&style=for-the-badge&logo=mathworks&logoColor=white"> | <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"> | <img src="https://img.shields.io/badge/ROS2-%230071C5.svg?&style=for-the-badge&logo=ros&logoColor=white"> | <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"> | <img src="https://img.shields.io/badge/Gazebo-%230098D6.svg?&style=for-the-badge&logo=gazebo&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"> |
+Language & AI: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 
+Simulation: <img src="https://img.shields.io/badge/Gazebo-0098D6?style=flat&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white"> (NVIDIA 기반)
 
+Vision & Robotics
 
+Vision: <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+
+Robotics: <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+
+Tools
+
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 
 ---
 
