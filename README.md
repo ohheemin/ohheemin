@@ -1,4 +1,4 @@
-## 🦾 Welcome to Heemin's GitHub
+## 🦾 Welcome
 
 I'm a Robotics & Mechanics student at **Dongguk University**
 
