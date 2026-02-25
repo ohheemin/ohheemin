@@ -14,7 +14,7 @@ I'm particularly interested in:
 ##  🦾 Core Skills
 
 
-Language & AI: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+Language & AI: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 
 Simulation: <img src="https://img.shields.io/badge/Gazebo-0098D6?style=flat&logo=gazebo&logoColor=white"> <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white"> 
 
