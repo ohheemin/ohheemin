@@ -20,8 +20,8 @@ Simulation: <img src="https://img.shields.io/badge/Gazebo-0098D6?style=flat&logo
 
 Vision: <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
 
-Robotics: <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"> <img src="https://avatars.githubusercontent.com/u/4927163?s=40&v=4" height="20"><img src="https://img.shields.io/badge/MoveIt-3498DB?style=flat-square">
-<img src="https://avatars.githubusercontent.com/u/61793740?s=40&v=4" height="20"><img src="https://img.shields.io/badge/Nav-FF6D00?style=flat-square">
+Robotics: <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"> <img src="https://avatars.githubusercontent.com/u/4927163?s=40&v=4" height="20"> <img src="https://img.shields.io/badge/MoveIt-3498DB?style=flat">
+<img src="https://img.shields.io/badge/Nav-FF6D00?style=flat">
 
 Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 
