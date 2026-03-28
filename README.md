@@ -27,14 +27,27 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 
 ---
 
-## 🦾 Projects
+## 🦾 Awards and Honors
 
-- [제 4회 국제 ev 자율주행 경진대회](https://www.irobotnews.com/news/articleView.html?idxno=41184)
-- [R-VIZ challenge, ZEUS](https://www.globalzeus.com/kr/sub/ir/mediaView.asp?bid=2&b_idx=269&page=1)
-- [제 7회 국민대 자율주행 경진대회](https://www.youtube.com/watch?v=UsoK1yYS4So)
-- [2024 대학생 창작 모빌리티 경진대회](https://www.youtube.com/watch?v=dPtdy3fO3pk&t=16236s)
-- [2024 공학페스티벌, 창의적 종합설계 경진대회](https://www.asiatoday.co.kr/kn/view.php?key=20241128010014388)
-- [2025 HL FMA 자율주행 경진대회](https://www.swuniv.kr/64/?bmode=view&idx=168006883)
+- Encouragement Award, HL Future Mobility Award (FMA) Autonomous Driving Competition (Simulation), Korea (Sep. 2025)
+
+- Encouragement Award, HL Future Mobility Award (FMA) Autonomous Driving Competition (Intermediate), Korea (Sep. 2025)
+
+- Innovation Award, Jeju International Student EV Autonomous Driving Competition (Intermediate), Korea (Jul. 2025)
+
+- Encouragement Award, Design and Manufacturing of Robotic Systems Competition (Dongguk University), Korea (Jun. 2025)
+
+- Minister of Trade, Industry and Energy Award, Creative Engineering Design Competition, Korea (Nov. 2024)
+
+- Best Award, IoT Home Appliance Consortium Engineering Design Competition , Korea (Nov. 2024)
+
+- Director General Award, R-Biz Challenge Zeus Robot Mission, Korea (Oct. 2024)
+
+- Encouragement Award, Capstone Design Value-Up Program (Dongguk University), Korea (Aug. 2024)
+
+- Encouragement Award, Creative Innovation Capstone Design Competition Korean Society for Industry & Academy Collaboration, Korea (Nov. 2021)
+
+- Best Award, Capstone Design Value-Up Program (Dongguk University), Korea (Sep. 2021)
   
 ---
 
