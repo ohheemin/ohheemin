@@ -29,25 +29,25 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 
 ## 🦾 Awards and Honors
 
-- Encouragement Award, HL Future Mobility Award (FMA) Autonomous Driving Competition (Simulation), Korea (Sep. 2025)
+- **Encouragement Award**, HL Future Mobility Award (FMA) Autonomous Driving Competition (Simulation), Korea (Sep. 2025)
 
-- Encouragement Award, HL Future Mobility Award (FMA) Autonomous Driving Competition (Intermediate), Korea (Sep. 2025)
+- **Encouragement Award**, HL Future Mobility Award (FMA) Autonomous Driving Competition (Intermediate), Korea (Sep. 2025)
 
-- Innovation Award, Jeju International Student EV Autonomous Driving Competition (Intermediate), Korea (Jul. 2025)
+- **Innovation Award**, Jeju International Student EV Autonomous Driving Competition (Intermediate), Korea (Jul. 2025)
 
-- Encouragement Award, Design and Manufacturing of Robotic Systems Competition (Dongguk University), Korea (Jun. 2025)
+- **Encouragement Award**, Design and Manufacturing of Robotic Systems Competition (Dongguk University), Korea (Jun. 2025)
 
-- Minister of Trade, Industry and Energy Award, Creative Engineering Design Competition, Korea (Nov. 2024)
+- **Minister of Trade, Industry and Energy Award**, Creative Engineering Design Competition, Korea (Nov. 2024)
 
-- Best Award, IoT Home Appliance Consortium Engineering Design Competition , Korea (Nov. 2024)
+- **Best Award**, IoT Home Appliance Consortium Engineering Design Competition , Korea (Nov. 2024)
 
-- Director General Award, R-Biz Challenge Zeus Robot Mission, Korea (Oct. 2024)
+- **Director General Award**, R-Biz Challenge Zeus Robot Mission, Korea (Oct. 2024)
 
-- Encouragement Award, Capstone Design Value-Up Program (Dongguk University), Korea (Aug. 2024)
+- **Encouragement Award**, Capstone Design Value-Up Program (Dongguk University), Korea (Aug. 2024)
 
-- Encouragement Award, Creative Innovation Capstone Design Competition Korean Society for Industry & Academy Collaboration, Korea (Nov. 2021)
+- **Encouragement Award**, Creative Innovation Capstone Design Competition Korean Society for Industry & Academy Collaboration, Korea (Nov. 2021)
 
-- Best Award, Capstone Design Value-Up Program (Dongguk University), Korea (Sep. 2021)
+- **Best Award**, Capstone Design Value-Up Program (Dongguk University), Korea (Sep. 2021)
   
 ---
 
