@@ -24,7 +24,7 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 
 - **Innovation Award**, Jeju International Student EV Autonomous Driving Competition (Intermediate), Jul. 2025
 
-- **Encouragement Award**, Design and Manufacturing of Robotic Systems Competition, Korea (Jun. 2025)
+- **Encouragement Award**, Design and Manufacturing of Robotic Systems Competition, Jun. 2025
 
 - **Minister of Trade, Industry and Energy Award**, Creative Engineering Design Competition, Nov. 2024
 
