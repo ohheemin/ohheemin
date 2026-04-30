@@ -1,19 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohheemin&theme=dark&show_icons=true)
 
-## 🦾 Welcome
-
-Majored in Robotics & Mechanics student at **Dongguk University**
-
-Particularly interested in:
-
-- **Physical AI based on DT**
-- **Computer Vision for Autonomous Driving**
-- **Lidar Point Cloud Processing**
-- **Industrial Robot Arm Manipulation**
-
----
-
-##  🦾 Core Skills
+## Core Skills
 
 
 Language: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
