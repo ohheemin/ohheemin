@@ -16,7 +16,7 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 
 ---
 
-## 🦾 Awards and Honors
+## Awards and Honors
 
 - **Encouragement Award**, HL Future Mobility Award (FMA) Autonomous Driving Competition (Simulation), Korea (Sep. 2025)
 
