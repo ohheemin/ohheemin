@@ -1,18 +1,14 @@
 <div align="center">
 
-<a href="https://ohheemin.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-ohheemin.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/heemin-oh/">
-  <img src="https://img.shields.io/badge/LinkedIn-heemin--oh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://hm-image-recognition.tistory.com/">
-  <img src="https://img.shields.io/badge/Blog-Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
+<a href="https://ohheemin.github.io/"><img src="https://img.shields.io/badge/Portfolio-ohheemin.github.io-222222?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/heemin-oh/"><img src="https://img.shields.io/badge/LinkedIn-heemin--oh-0A66C2?style=for-the-badge&logoColor=white"></a>
+<a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 <br><br>
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true">
+
+</div>
 
 
 ## Core Skills
