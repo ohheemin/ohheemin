@@ -34,5 +34,5 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 <div align="center">
 <a href="https://ohheemin.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/heemin-oh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat"></a>
-<a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5544?style=flat&logo=tistory&logoColor=white"></a>
+<a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat&logo=tistory&logoColor=white"></a>
 </div>
