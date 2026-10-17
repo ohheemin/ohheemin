@@ -4,19 +4,9 @@
 
 ## Core Skills
 
-```python
-class HeeminOh:
-    lab      = "Robot & AI Lab, Dongguk University"
-    focus    = ["Autonomous Driving", "Perception", "Digital Twin"]
-
-    stack = {
-        "language"   : ["Python", "C++"],
-        "perception" : ["PyTorch", "OpenCV", "NumPy"],
-        "robotics"   : ["ROS", "MoveIt", "Nav2"],
-        "simulation" : ["Gazebo", "Isaac Sim", "CARLA"],
-        "tools"      : ["Git", "GitHub", "VS Code"],
-    }
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,ros,linux,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
