@@ -2,6 +2,9 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true">
 </div>
 
+<br>
+<hr>
+
 <h2 align="center">Core Skills</h2>
 
 <p align="center">
@@ -19,23 +22,31 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
 </p>
 
+<br>
+<hr>
+
 <h2 align="center">Awards and Honors</h2>
 
-- **Encouragement Award**, HL FMA Autonomous Driving Competition (Simulation), Sep. 2025
-- **Encouragement Award**, HL FMA Autonomous Driving Competition (Intermediate), Sep. 2025
-- **Innovation Award**, Jeju International Student EV Autonomous Driving Competition (Intermediate), Jul. 2025
-- **Encouragement Award**, Design and Manufacturing of Robotic Systems Competition, Jun. 2025
-- **Minister of Trade, Industry and Energy Award**, Creative Engineering Design Competition, Nov. 2024
-- **Best Award**, IoT Home Appliance Consortium Engineering Design Competition, Nov. 2024
-- **Director General Award**, R-Biz Challenge Zeus Robot Mission, Oct. 2024
-- **Encouragement Award**, Capstone Design Value-Up Program, Aug. 2024
-- **Encouragement Award**, Creative Innovation Capstone Design Competition, Nov. 2021
-- **Best Award**, Capstone Design Value-Up Program, Sep. 2021
+<p align="center">
+  <b>Encouragement Award</b> · HL FMA Autonomous Driving Competition (Simulation) · <sub>Sep. 2025</sub><br>
+  <b>Encouragement Award</b> · HL FMA Autonomous Driving Competition (Intermediate) · <sub>Sep. 2025</sub><br>
+  <b>Innovation Award</b> · Jeju International Student EV Autonomous Driving Competition (Intermediate) · <sub>Jul. 2025</sub><br>
+  <b>Encouragement Award</b> · Design and Manufacturing of Robotic Systems Competition · <sub>Jun. 2025</sub><br>
+  <b>Minister of Trade, Industry and Energy Award</b> · Creative Engineering Design Competition · <sub>Nov. 2024</sub><br>
+  <b>Best Award</b> · IoT Home Appliance Consortium Engineering Design Competition · <sub>Nov. 2024</sub><br>
+  <b>Director General Award</b> · R-Biz Challenge Zeus Robot Mission · <sub>Oct. 2024</sub><br>
+  <b>Encouragement Award</b> · Capstone Design Value-Up Program · <sub>Aug. 2024</sub><br>
+  <b>Encouragement Award</b> · Creative Innovation Capstone Design Competition · <sub>Nov. 2021</sub><br>
+  <b>Best Award</b> · Capstone Design Value-Up Program · <sub>Sep. 2021</sub>
+</p>
+
+<br>
+<hr>
 
 <h2 align="center">Contact</h2>
 
-<div align="center">
-<a href="https://ohheemin.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/heemin-oh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat"></a>
-<a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat&logo=tistory&logoColor=white"></a>
-</div>
+<p align="center">
+  <a href="https://ohheemin.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/heemin-oh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
+  <a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5544?style=flat-square&logo=tistory&logoColor=white"></a>
+</p>
