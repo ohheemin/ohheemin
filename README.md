@@ -1,3 +1,5 @@
+https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true
+
 ## Core Skills
 
 
@@ -49,8 +51,6 @@ Tools: <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&log
 <a href="https://hm-image-recognition.tistory.com/"><img src="https://img.shields.io/badge/Blog-Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 <br><br>
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true">
 
 </div>
 
