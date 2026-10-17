@@ -4,24 +4,19 @@
 
 ## Core Skills
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44"><br><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"><br><sub>C++</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44"><br><sub>PyTorch</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="44"><br><sub>OpenCV</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44"><br><sub>NumPy</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ros/white" width="44"><br><sub>ROS · MoveIt · Nav2</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/gazebo/0098D6" width="44"><br><sub>Gazebo</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="44"><br><sub>Isaac Sim</sub></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"><br><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/github/white" width="44"><br><sub>GitHub</sub></td>
-  </tr>
-</table>
-</div>
+```python
+class HeeminOh:
+    lab      = "Robot & AI Lab, Dongguk University"
+    focus    = ["Autonomous Driving", "Perception", "Digital Twin"]
+
+    stack = {
+        "language"   : ["Python", "C++"],
+        "perception" : ["PyTorch", "OpenCV", "NumPy"],
+        "robotics"   : ["ROS", "MoveIt", "Nav2"],
+        "simulation" : ["Gazebo", "Isaac Sim", "CARLA"],
+        "tools"      : ["Git", "GitHub", "VS Code"],
+    }
+```
 
 ---
 
