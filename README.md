@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
 </p>
 
----
-
 <h2 align="center">Awards and Honors</h2>
 
 - **Encouragement Award**, HL FMA Autonomous Driving Competition (Simulation), Sep. 2025
@@ -34,7 +32,6 @@
 - **Encouragement Award**, Creative Innovation Capstone Design Competition, Nov. 2021
 - **Best Award**, Capstone Design Value-Up Program, Sep. 2021
 
----
 <h2 align="center">Contact</h2>
 
 <div align="center">
