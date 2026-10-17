@@ -5,39 +5,24 @@
 ## Core Skills
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,ros,linux,git,github,vscode&theme=dark" />
-
-<br><br>
-
 <table>
   <tr>
-    <td align="center"><b>Simulation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Gazebo-0098D6?style=flat-square&logo=gazebo&logoColor=white">
-      <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white">
-      <img src="https://img.shields.io/badge/CARLA-2C3E50?style=flat-square">
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44"><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"><br><sub>C++</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44"><br><sub>PyTorch</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="44"><br><sub>OpenCV</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44"><br><sub>NumPy</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>Perception</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Robotics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white">
-      <img src="https://img.shields.io/badge/MoveIt-3498DB?style=flat-square">
-      <img src="https://img.shields.io/badge/Nav2-FF6D00?style=flat-square">
-    </td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/ros/white" width="44"><br><sub>ROS · MoveIt · Nav2</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/gazebo/0098D6" width="44"><br><sub>Gazebo</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="44"><br><sub>Isaac Sim</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/github/white" width="44"><br><sub>GitHub</sub></td>
   </tr>
 </table>
-
 </div>
+
 ---
 
 ## Awards and Honors
