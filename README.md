@@ -3,7 +3,6 @@
 </div>
 
 <br>
-<hr>
 
 <h2 align="center">Core Skills</h2>
 
@@ -23,7 +22,6 @@
 </p>
 
 <br>
-<hr>
 
 <h2 align="center">Awards and Honors</h2>
 
@@ -41,7 +39,6 @@
 </p>
 
 <br>
-<hr>
 
 <h2 align="center">Contact</h2>
 
