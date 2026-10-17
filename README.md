@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true">
 </div>
 
-## Core Skills
+<h2 align="center">Core Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -21,7 +21,7 @@
 
 ---
 
-## Awards and Honors
+<h2 align="center">Awards and Honors</h2>
 
 - **Encouragement Award**, HL FMA Autonomous Driving Competition (Simulation), Sep. 2025
 - **Encouragement Award**, HL FMA Autonomous Driving Competition (Intermediate), Sep. 2025
@@ -35,6 +35,7 @@
 - **Best Award**, Capstone Design Value-Up Program, Sep. 2021
 
 ---
+<h2 align="center">Contact</h2>
 
 <div align="center">
 <a href="https://ohheemin.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white"></a>
