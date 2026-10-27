@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true" alt="ohheemin's GitHub stats">
-</div>
-
-<br>
-
 <h2 align="center">Core Skills</h2>
 
 <p align="center">
