@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true">
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=ohheemin&theme=dark&show_icons=true" alt="ohheemin's GitHub stats">
 </div>
 
 <br>
